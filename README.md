@@ -14,3 +14,13 @@ Mis expectativas respecto al curso son fortalecer mis conocimientos sobre arquit
 Docente
 
 Nombre completo del docente: ING. LIZBETH JAICO QUISPE
+
+## Capturas de evidencias
+
+### Primer paso
+
+<img src="./img/Primerpaso.png" alt="Captura del primer paso" width="800">
+
+### Segundo paso
+
+<img src="./img/Segundopaso.png" alt="Captura del segundo paso" width="800">

@@ -19,3 +19,7 @@ Mi objetivo es seguir desarrollando mis habilidades en programación y contribui
 - Git y GitHub
 - Desarrollo de aplicaciones
 - Trabajo colaborativo
+
+## Experiencia en el proyecto
+
+- **Colaborador**: Desarollo de nuevas funciones
